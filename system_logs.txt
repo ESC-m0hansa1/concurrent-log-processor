@@ -1,0 +1,10 @@
+[INFO] 2026-11-15 08:00:01: Server initialized successfully.
+[INFO] 2026-11-15 08:00:05: User 1045 authenticated.
+[WARN] 2026-11-15 08:01:12: CPU usage exceeded 75%.
+[ERROR] 2026-11-15 08:02:00: Database connection timeout on port 5432.
+[INFO] 2026-11-15 08:02:45: Retry successful. Connection established.
+[INFO] 2026-11-15 08:05:10: User 2099 logged out.
+[ERROR] 2026-11-15 08:07:33: Memory limit exceeded in container A.
+[WARN] 2026-11-15 08:10:01: High latency detected in API gateway.
+[INFO] 2026-11-15 08:12:00: Scheduled maintenance started.
+[ERROR] 2026-11-15 08:15:40: Segmentation fault in worker thread 4.
